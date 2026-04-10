@@ -21,8 +21,8 @@ We are drafting an initial discussion note outlining the standards gap and the c
 
 ## People
 
-- **[Conor Deegan](https://x.com/conordeegan)**, Project Eleven
-- **[Justin Drake](https://x.com/drakefjustin)**, Ethereum Foundation
+- [Conor Deegan](https://x.com/conordeegan), Project Eleven
+- [Justin Drake](https://x.com/drakefjustin), Ethereum Foundation
 
 ## Resources
 
