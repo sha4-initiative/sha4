@@ -19,6 +19,11 @@ This is a community effort to explore whether a standardised arithmetization-ori
 
 We are drafting an initial discussion note outlining the standards gap and the considerations that would inform a candidate evaluation process.
 
+## People
+
+- **[Conor Deegan](https://x.com/conordeegan)**, Project Eleven
+- **[Justin Drake](https://x.com/drakefjustin)**, Ethereum Foundation
+
 ## Resources
 
 - [Discussion note](docs/discussion-note)
