@@ -21,9 +21,9 @@ We are drafting an initial discussion note outlining the standards gap and the c
 
 ## Resources
 
-- [GitHub repository](https://github.com/sha4-initiative)
-- [Discussion note](https://sha4.info/discussion-note)
+- [Discussion note](docs/discussion-note)
 - Technical scoping document *(coming soon)*
+- [GitHub repository](https://github.com/sha4-initiative)
 
 ### References
 
