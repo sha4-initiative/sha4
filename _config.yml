@@ -1,0 +1,21 @@
+title: SHA-4 Initiative
+description: Toward a standard for arithmetization-oriented hash functions.
+url: https://sha4.info
+
+remote_theme: riggraz/no-style-please
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+
+permalink: /:title/
+
+markdown: kramdown
+kramdown:
+  hard_wrap: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
