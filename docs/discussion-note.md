@@ -5,6 +5,7 @@ title: Discussion note
 
 # Should there be a standard arithmetisation-oriented (AO) hash function?
 
+Authors:
 - *Conor Deegan*
 - *Justin Drake*
 
