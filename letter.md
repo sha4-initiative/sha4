@@ -26,7 +26,7 @@ We ask NIST and the broader community to:
 2. Engage with existing efforts - in particular the [ZKProof](https://zkproof.org) community and the Ethereum Foundation's [Poseidon Initiative](https://www.poseidon-initiative.info/) - rather than restart their work.
 3. Publish a deliberate timeline, so that implementers and standards-dependent adopters (government, enterprise, hardware) can plan around an eventual standard.
 
-A fuller technical argument is set out in the accompanying [discussion note](/discussion-note).
+A fuller technical argument is set out in the accompanying [discussion note](/docs/discussion-note).
 
 ---
 
