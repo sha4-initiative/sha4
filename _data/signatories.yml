@@ -1,0 +1,23 @@
+# Signatories to the SHA-4 Initiative open letter.
+#
+# See /SIGNING.md for the format and the review process.
+# Each `link` should be a public profile that establishes identity:
+# institutional page, Google Scholar, ORCID, GitHub, X/Mastodon with
+# history, or a personal site.
+
+# Initial signatories (letter drafters; displayed first).
+initial:
+  - name: Conor Deegan
+    affiliation: Project Eleven
+    link: https://x.com/conordeegan
+  - name: Justin Drake
+    affiliation: Ethereum Foundation
+    link: https://x.com/drakefjustin
+
+# Additional individual signatories, appended in the order they sign.
+individuals: []
+
+# Organisational signatories. Email-only; added by maintainers after
+# the sign-on is confirmed via an email on the organisation's own domain.
+# `contact` is the person signing on the organisation's behalf.
+organisations: []

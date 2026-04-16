@@ -11,6 +11,8 @@ Authors:
 
 *Last updated: 14 April 2026*
 
+*This note accompanies the [open letter](/letter/), which is the shorter, signable version of the case below.*
+
 NIST's hash function standards (SHA-2, SHA-3, Ascon) were designed for conventional hardware. Arithmetisation-optimised (AO) hash functions, sometimes known as SNARK-friendly or ZK-friendly hash functions, are designed for efficient evaluation inside arithmetic circuits, where they are roughly two orders of magnitude cheaper than standard alternatives for common workloads. AO hashes are already widely deployed across proof system infrastructure, identity protocols, and storage integrity systems, but no standard exists. We think a NIST standardisation process is worth beginning. This note lays out the reasoning and the open questions.
 
 ## What a standard would provide
