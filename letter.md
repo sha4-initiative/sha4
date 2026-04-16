@@ -53,7 +53,7 @@ A fuller technical argument is set out in the accompanying [discussion note](/di
 
 ## How to sign
 
-**Individuals** can sign by opening a pull request to [`_data/signatories.yml`](https://github.com/sha4-initiative/sha4/blob/main/_data/signatories.yml), or by emailing [want@sha4.info](mailto:want@sha4.info).
+**Individuals** can sign by opening a pull request to [_data/signatories.yml](https://github.com/sha4-initiative/sha4/blob/main/_data/signatories.yml), or by emailing [want@sha4.info](mailto:want@sha4.info).
 
 **Organisations** sign by email only. Write to [want@sha4.info](mailto:want@sha4.info) from an address on the organisation's own domain.
 
