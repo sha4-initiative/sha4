@@ -39,4 +39,4 @@ We are drafting an initial discussion note outlining the standards gap and the c
 
 ## Contact
 
-Open a [GitHub issue](https://github.com/sha4-initiative/sha4/issues) or email sha4-info [at] protonmail.com
+Open a [GitHub issue](https://github.com/sha4-initiative/sha4/issues) or email want@sha4.info
