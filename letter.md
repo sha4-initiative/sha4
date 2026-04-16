@@ -6,7 +6,7 @@ permalink: /letter/
 
 # An open letter on the standardisation of arithmetisation-oriented hash functions
 
-*Published 16 April 2026*
+*Published 16 April 2026. Drafted by Conor Deegan and Justin Drake.*
 
 The undersigned urge the National Institute of Standards and Technology, in coordination with the cryptographic research community and open standards bodies, to begin a pre-competition phase toward standardising an arithmetisation-oriented (AO) hash function.
 
@@ -32,20 +32,15 @@ A fuller technical argument is set out in the accompanying [discussion note](/do
 
 ## Signatories
 
-### Initial signatories
+### Individuals
 
-{% for s in site.data.signatories.initial %}- **{{ s.name }}**{% if s.affiliation %}, {{ s.affiliation }}{% endif %}{% if s.link %} · [profile]({{ s.link }}){% endif %}
-{% endfor %}
-
-### Individual signatories
-
-{% if site.data.signatories.individuals.size == 0 %}*No additional individual signatories yet. [Add your name.](#how-to-sign)*
+{% if site.data.signatories.individuals.size == 0 %}*No individual signatories yet. [Add your name.](#how-to-sign)*
 {% else %}{% for s in site.data.signatories.individuals %}- **{{ s.name }}**{% if s.affiliation %}, {{ s.affiliation }}{% endif %}{% if s.link %} · [profile]({{ s.link }}){% endif %}
 {% endfor %}{% endif %}
 
-### Organisational signatories
+### Organisations
 
-{% if site.data.signatories.organisations.size == 0 %}*No organisations have signed yet. [Add your name.](#how-to-sign)*
+{% if site.data.signatories.organisations.size == 0 %}*No organisations have signed yet. [Add your organisation.](#how-to-sign)*
 {% else %}{% for o in site.data.signatories.organisations %}- **{{ o.name }}** - signed by {{ o.contact }}{% if o.link %} · [site]({{ o.link }}){% endif %}
 {% endfor %}{% endif %}
 
